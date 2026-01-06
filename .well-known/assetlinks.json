@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nav.tara",
+      "sha256_cert_fingerprints": [
+        "4a:ba:56:d3:cd:74:85:1d:7e:d1:a7:5d:33:09:b0:30:88:b9:71:e1:ef:d4:2c:b0:43:54:02:20:f8:5c:ad:e8",
+        "47:66:76:b5:0c:27:e2:87:8a:70:8e:c5:42:76:f6:29:0a:6e:78:b4:c1:0c:d0:88:59:ca:0b:e8:8e:af:23:eb"
+      ]
+    }
+  }
+]
